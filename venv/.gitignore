@@ -1,0 +1,10 @@
+# Игнорировать виртуальное окружение
+venv/
+
+# Кеш pytest
+.pytest_cache/
+
+# Кеши Python
+__pycache__/
+*.pyc
+
