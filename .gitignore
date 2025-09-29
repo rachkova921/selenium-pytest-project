@@ -1,0 +1,17 @@
+# виртуальное окружение
+venv/
+.venv/
+
+# pycache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+.vscode/
+
+# прочее
+*.log
+.DS_Store
